@@ -1,0 +1,24 @@
+{
+  "name": "twitter-success-bot",
+  "version": "1.0.0",
+  "description": "An Open Source Twitter Success Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinlhx/Twitter-Success-Bot.git"
+  },
+  "author": "austinlhx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinlhx/Twitter-Success-Bot/issues"
+  },
+  "homepage": "https://github.com/austinlhx/Twitter-Success-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "twitter": "^1.7.1"
+  }
+}
